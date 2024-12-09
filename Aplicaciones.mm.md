@@ -18,8 +18,8 @@
 ### SQL
 - **GYG**
   - **iVentas**
-    - ** Jaltech**
-    - ** Tecnigo**
+    - **Jaltech**
+    - **Tecnigo**
   - **Página**
     - **Página Jaltech**
     - **Página Tecnigo**
@@ -42,9 +42,33 @@
 ### Directorio Activo
 ### VPNs
 
-----
-# Software terceros
-- ** Carvajal
-    -- ** Jaltech
-    -- ** Tecnigo
+---
 
+## 5. Software terceros
+- **Carvajal**
+  - **Jaltech**
+  - **Tecnigo**
+
+## 6. Power Platform
+- **Correos**
+- **Power BI**
+    - **Informes Gerencia Ventas**
+    - **Informes Gerencia Compras**
+    - **Informes Cartera**
+    - **otros**
+- **Power Apps**
+    - **Activos Fijos**
+    - **Viaticos**
+    - **Anticipos**
+    - **otros**
+- **Power Automate**
+    - ** Automatizaciones Paj bienestar**
+    - **Construccion**
+- **Sharepoint**
+    - **Pagina Bienestar**
+    - **Micrositio Vacaciones**
+    - **MErcadeo**
+- **Forms**
+    - **Pagina Bienestar**
+    - **Encuentas RRHH**
+- **Planner**
